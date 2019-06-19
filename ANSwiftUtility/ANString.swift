@@ -8,7 +8,7 @@
 
 import Foundation
 
-class ANString{
+public class ANString{
     
     func getUserName() -> String{
         return "Hello World"
