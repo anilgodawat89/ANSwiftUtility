@@ -10,6 +10,9 @@ import Foundation
 
 public class ANString{
     
+    public init(){
+        print("Public ClassAccess")
+    }
     func getUserName() -> String{
         return "Hello World"
     }
